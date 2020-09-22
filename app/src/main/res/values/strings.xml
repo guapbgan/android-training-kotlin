@@ -1,0 +1,17 @@
+<resources>
+<!--    special mark need escape: method1-->
+    <!--    <string name="app_name">X\'s app &amp; y\'s app</string>-->
+<!--    special mark need escape: method2 雙引號可跳出單引號-->
+    <string name="app_name">"X's app &amp; y's app"</string>
+    <string name="title1">MainTitle</string>
+    <string name="second_button">Second Button</string>
+    <string-array name="dayOfWeek">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>

@@ -1,0 +1,3 @@
+include ':demolib'
+include ':app'
+rootProject.name = "Demo2_Kotlin_Jar"
